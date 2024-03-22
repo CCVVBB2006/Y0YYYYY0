@@ -1,4 +1,4 @@
-# WhatsApp-Lock-V1 Coded By @HAMO_king
+# WhatsApp-Lock-V1 Coded By @M_A_S_Y
 
  
 git clone https://github.com/CCVVBB2006/Y0YYYYY0.git
